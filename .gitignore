@@ -1,5 +1,7 @@
 venv/
 pdfs/
 
+.DS_STORE
 constants.py
 *.pdf
+*.swp
