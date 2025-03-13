@@ -1,0 +1,18 @@
+{
+  "CS111": {
+      "course_id": "01:198:111",
+      "key_topics": [
+        "java", 
+        "recursion", 
+        "Big O or efficiency analysis", 
+        "both searching and sorting algorithms"
+      ]
+  },
+  "CS112": {
+      "course_id": "01:198:112",
+      "key_topics": [
+        "linked lists",
+        "LL"
+      ]
+  }
+}
