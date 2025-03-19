@@ -11,8 +11,50 @@
   "CS112": {
       "course_id": "01:198:112",
       "key_topics": [
+        "java",
         "linked lists",
-        "LL"
+        "stacks",
+        "queue",
+        "tree",
+        "binary search tree",
+        "hash tables/maps",
+        "graphs",
+        "Optional: Big O or efficiency analysis",
+        "Optional: recursion",
+        "Optional: both searching and sorting algorithms"
+      ]
+  },
+  "CS205": {
+      "course_id": "01:198:205",
+      "key_topics": [
+        "Foundations Logic and Proofs: Propositional Logic, Predicates and Quantifiers, Introduction to Proofs",
+        "Sets, Functions, and Sequences",
+        "Induction: Mathematical Induction, Strong induction and well-ordering, Recursive algorithms",
+        "Relations: Representation and operations, Closures, Graph and paths",
+        "Modeling Computation: Languages and Grammar, Finite State Machines",
+        "Number Theory: Divisibility and Modular Arithmetic, Integer representations and Algorithms"
+      ]
+  },
+  "CS211": {
+      "course_id": "01:198:211",
+      "key_topics": [
+        "C programming",
+        "Data representation and computer arithmetic",
+        "Boolean algebra",
+        "Assembly language programming",
+        "Main memory design",
+        "Cache design",
+        "Basic digital logic design",
+        "Processor design"
+      ]
+  },
+  "CS206": {
+      "course_id": "01:198:206",
+      "key_topics": [
+        "Counting: binomial coefficients, permutations, combinations, partitions",
+        "Recurrence relations and generating functions",
+        "Discrete probability: Events and random variables; Conditional probability, independence; Expectation, variance, standard deviation; Binomial, poisson and geometric distributions; law of large numbers",
+        "Optional topics from graph theory: paths, components, connectivity, Euler paths, Hamiltonian paths, planar graphs, trees"
       ]
   }
 }

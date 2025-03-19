@@ -11,7 +11,8 @@ deactivate
 Run each time when developing:
 1. Start your virtual env `source venv/bin/activate`.
 2. ???
-3. Close your virtual env with `deactivate`. 
+3. Profit
+4. Close your virtual env with `deactivate`. 
 
 Useful commands:
 1. `pip freeze > requirements.txt` to update requirements file.
